@@ -27,7 +27,7 @@ c2 = int(input('Please enter the target x-coordinate:'))
 # user provides the targeted coordinates of x
 d2 = int(input('Please enter the target y-coordinate:'))
 # user provides the targeted coordinates of y
-goal=[x2,y2]; 
+goal=[c2,d2]; 
 goal_marker_style = {
  'marker': 'D',
  'markersize': 6,
